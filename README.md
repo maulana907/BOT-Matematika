@@ -2,7 +2,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/affisjunianto/botwasapv4
+> git clone https://github.com/maulana907/botwasapv4
 ```
 
 ## Install the dependencies:
