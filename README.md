@@ -125,8 +125,8 @@ you've just cloned!!
 
 
 ## whatsapp number
-* [`WhatsApp`](wa.me/6282334297175)
+* [`WhatsApp`](wa.me/6289523731135)
 ### Donate
-* [`Saweria`](https://saweria.co/ampibibot)
-* [`Dana : +62895710073737`]
-* [`Pulsa : +6282334297175`]
+* [`Saweria`] (https://saweria.co/Maulanabhaktiar)
+* [`Dana : +62 888-8778-625`)
+* [`Pulsa : +6289523731135`]
