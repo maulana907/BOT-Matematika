@@ -128,5 +128,5 @@ you've just cloned!!
 * [`WhatsApp`](wa.me/6289523731135)
 ### Donate
 * [`Saweria`] (https://saweria.co/Maulanabhaktiar)
-* [`Dana : 08888778626`)
+* [`Dana : 08888778625`)
 * [`Pulsa : +6289523731135`]
